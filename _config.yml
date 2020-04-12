@@ -8,13 +8,13 @@ description: Meredith Brown's Personal Website
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/headshot2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume.pdf
+resume-url: assets/MeredithBrownResume.pdf
 
 # url: https://koppl.in/indigo
 your url: http://meredithb3.github.io
@@ -57,7 +57,7 @@ authors:
         name: Meredith Brown
         bio: Statistics and Computer Science Student at Duke University 
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/headshot2.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
