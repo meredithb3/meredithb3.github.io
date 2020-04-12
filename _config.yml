@@ -1,5 +1,5 @@
 # main text of home
-#name: Meredith Brown
+name: Meredith Brown
 bio: Statistics and Computer Science Student at Duke University
 
 # twitter summary info
@@ -29,17 +29,17 @@ your url: http://meredithb3.github.io
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-#disqus:
-#  shortname: maxbartlett # enter this from your disqus account
-#  categories: [blog, project] # only show disqus for posts that have these categories
+disqus:
+  shortname: # enter this from your disqus account
+  categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
- twitter: meredith_b3
+twitter: 'meredith_b3'
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/meredith-brown-807964172
+linkedin: Meredith Brown
 # youtube: myyoutube
 # spotify: myspotify
 github: meredithb3
