@@ -19,7 +19,7 @@ resume-url: assets/resume.pdf
 # url: https://koppl.in/indigo
 your url: http://meredithb3.github.io
 
-permalink: /:title/
+# permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-111610440-1'
