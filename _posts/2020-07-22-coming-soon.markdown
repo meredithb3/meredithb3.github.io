@@ -5,7 +5,7 @@ date: 2020-07-22 13:00
 headerImage: false
 projects: false
 category: blog
-author: maxbartlett
+author: meredithbrown
 description: "Projects and blog posts coming soon."
 --- 
 
