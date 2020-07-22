@@ -1,7 +1,7 @@
 ---
 title: "Coming Soon!"
 layout: post
-date: 2018-03-19 17:00
+date: 2020-07-22 13:00
 headerImage: false
 projects: false
 category: blog
