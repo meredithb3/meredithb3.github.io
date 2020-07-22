@@ -40,7 +40,7 @@ From a dataset of 213 observations and 50 variables, we decided to tackle this q
 ```
 
 <object data="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf" width="600px" height="350px">
-    <embed src="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf">
+    <embed data="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf">Download PDF</a>.</p>
     </embed>
 </object>
