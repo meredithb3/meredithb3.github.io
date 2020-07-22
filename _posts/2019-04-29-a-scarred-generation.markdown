@@ -39,11 +39,7 @@ From a dataset of 213 observations and 50 variables, we decided to tackle this q
 ## 9 per_capita_income              0.000277
 ```
 
-<object data="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf" width="600px" height="350px">
-    <embed data="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="../assets/projects/a_scarred_generation/Stat199_Final_Project.pdf" style="width:600px; height:350px;" frameborder="0"></iframe>
 
 ## Conclusion and Discussion
 
